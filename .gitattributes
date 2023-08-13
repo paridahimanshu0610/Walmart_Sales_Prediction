@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+Walmart[[:space:]]Sales[[:space:]]Prediction.ipynb filter=lfs diff=lfs merge=lfs -text
